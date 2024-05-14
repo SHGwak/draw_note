@@ -1,0 +1,1 @@
+enum ToolType { pen, eraser, select, textEdit }
